@@ -17,7 +17,6 @@ This application implements a mini automation engine with the following capabili
 job-scheduler-system/
 │
 ├── frontend/
-│   ├── public/
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── JobForm.js          (Create job form)
@@ -29,7 +28,6 @@ job-scheduler-system/
 │   │   ├── index.js                (React entry point)
 │   │   └── .env                    (Frontend config)
 │   ├── package.json
-│   └── README.md
 │
 ├── backend/
 │   ├── database/
@@ -44,9 +42,6 @@ job-scheduler-system/
 │   ├── app.js                      (Express server)
 │   ├── package.json
 │   ├── .env                        (Backend config)
-│   └── README.md
-│
-└── README.md                       (This file)
 `
 
 ## Tech Stack
