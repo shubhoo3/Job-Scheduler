@@ -85,6 +85,7 @@ Open a new browser tab and go to:
 https://webhook.site
 Step 2: You'll See This
 When you open webhook.site, you'll see:
+`
 ┌─────────────────────────────────────────────┐
 │  Your unique URL                            │
 ├─────────────────────────────────────────────┤
@@ -98,13 +99,14 @@ When you open webhook.site, you'll see:
 │  Requests                                   │
 │  (No requests yet)                          │
 │                                             │
-└─────────────────────────────────────────────┘
+└─────────────────────────────────────────────┘`
 Step 3: Copy Your URL
 
 Example Your URL looks like: https://webhook.site/abc123de-f456-gh78-ij90-klmnopqrstu
 ⚠️ Important: Each time you refresh webhook.site, you get a NEW URL!
 
 ## View Webhook Data Example
+`
 ┌────────────────────────────────────────────────┐
 │  Request Details                               │
 ├────────────────────────────────────────────────┤
@@ -130,4 +132,5 @@ Example Your URL looks like: https://webhook.site/abc123de-f456-gh78-ij90-klmnop
 │  }                                             │
 │                                                │
 └────────────────────────────────────────────────┘
+`
 
