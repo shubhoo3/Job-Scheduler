@@ -134,4 +134,7 @@ Example Your URL looks like: https://webhook.site/abc123de-f456-gh78-ij90-klmnop
 │                                                │
 └────────────────────────────────────────────────┘
 ```
+## Screenshots
+<img width="1661" height="946" alt="image" src="https://github.com/user-attachments/assets/560876b8-ffb1-4fd4-8aca-17457d8d8038" />
+<img width="1391" height="982" alt="image" src="https://github.com/user-attachments/assets/5de0f001-fb12-4570-b98c-0d52da6c3d6b" />
 
